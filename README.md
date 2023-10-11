@@ -17,6 +17,8 @@ chunghee-hwang / README.md
 [![CodeExpert](https://github-readme-stats.vercel.app/api/pin/?username=chunghee-hwang&repo=CodeExpert)](https://github.com/chunghee-hwang/CodeExpert)
 
 
+## 통계
+
 ![통계](https://github-readme-stats.vercel.app/api?username=chunghee-hwang&show_icons=true&hide_rank=true)
 
 [![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=chunghee-hwang)](https://github.com/chunghee-hwang/github-readme-stats)
