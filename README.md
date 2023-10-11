@@ -11,7 +11,12 @@ chunghee-hwang / README.md
  - :hammer: Java, Spring Boot 3+, MariaDB, Kafka, AWS EC2, ECS, k8s에 관심이 있습니다.
  - :email: hch0821@naver.com
 
+### 대표 프로젝트
+[![Lifusic](https://github-readme-stats.vercel.app/api/pin/?username=chunghee-hwang&repo=lifusic)](https://github.com/chunghee-hwang/lifusic)
 
-![Chunghee Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunghee-hwang&show_icons=true&theme=radical&hide_rank=true)
+[![CodeExpert](https://github-readme-stats.vercel.app/api/pin/?username=chunghee-hwang&repo=CodeExpert)](https://github.com/chunghee-hwang/CodeExpert)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunghee-hwang)](https://github.com/chunghee-hwang/github-readme-stats)
+
+![통계](https://github-readme-stats.vercel.app/api?username=chunghee-hwang&show_icons=true&hide_rank=true)
+
+[![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=chunghee-hwang)](https://github.com/chunghee-hwang/github-readme-stats)
