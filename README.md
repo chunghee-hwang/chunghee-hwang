@@ -4,8 +4,8 @@
 
 :computer: 백엔드 개발자 황충희입니다.
 
- - :hammer: Java, Spring Boot 3+, MariaDB, Kafka, AWS EC2, ECS, k8s에 관심이 있습니다.
- - :email: hch0821@naver.com
+ - :hammer: MariaDB, Kafka, AWS EC2, ECS, k8s, gRPC에 관심이 있습니다.
+ - :email: hch0821@gmail.com
 
 ### 대표 프로젝트
 [![Lifusic](https://github-readme-stats.vercel.app/api/pin/?username=chunghee-hwang&repo=lifusic)](https://github.com/chunghee-hwang/lifusic)
